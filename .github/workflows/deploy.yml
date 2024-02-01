@@ -1,8 +1,0 @@
-# .github/workflows/gh-pages.yml
-
-name: Deploy smujahed.github.io
-
-needs: build-deploy
-  - name: Deploy GitHub Pages site
-    uses: actions/deploy-pages@v4.0.0
-            
