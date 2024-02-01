@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = ""
+
+[author]
+name = "Shereif Mujahed"
+image = "img/headshot-sml.jpeg"
+bio = "This is my author bio!"
+headline = "Nanowires to Neural Nets: My Data Journey"
+links = [ { linkedin = "https://www.linkedin.com/in/shereif-mujahed-b0520a271" }, { github = "https://github.com/smujahed" }, { graduation-cap = "https://scholar.google.co.uk/citations?user=98OkGFIAAAAJ" }, { orcid = "https://orcid.org/0000-0002-7121-073X" }, { researchgate = "https://www.researchgate.net/profile/Shereif-Mujahed" } ]
