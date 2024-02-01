@@ -1,5 +1,0 @@
-+++
-title = 'some'
-+++
-
-Something
