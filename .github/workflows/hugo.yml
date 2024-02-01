@@ -23,6 +23,9 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
+      
+      - name: Get Blowfish theme
+        run: git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish
 
       - name: Build
         run: hugo --minify
